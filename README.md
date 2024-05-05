@@ -9,4 +9,7 @@ The two attached PDFs include both the Prompt and Deliverable for the case study
 The necessary data is located in the "DATA" folder and includes a cleaned dataset to be used for your model. Here is the link to the original Yelp Dataset (https://www.yelp.com/dataset)
 
 ## Reference Materials
-The "Reference Materials" folder contains helpful resources related to the context of the problem and tips for conducting sentiment analysis. Here is a link to an article related to a similar project for your reference (https://www.kaggle.com/code/omkarsabnis/sentiment-analysis-on-the-yelp-reviews-dataset).
+The "Reference Materials" folder contains helpful resources related to the context of the problem. 
+
+Here is a link to help you get started with the VADER package (https://www.geeksforgeeks.org/python-sentiment-analysis-using-vader/)
+Here is a link to an article related to a similar project for your reference (https://www.kaggle.com/code/omkarsabnis/sentiment-analysis-on-the-yelp-reviews-dataset)
